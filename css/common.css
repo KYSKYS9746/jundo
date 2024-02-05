@@ -1,0 +1,21 @@
+.default {
+    padding: 100px 0;
+}
+
+.inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.default .title {
+    max-width: 1200px;
+    margin: 0 auto 40px auto;
+
+    text-align: center;
+}
+
+.default .title h3 {
+    font-size: 36px;
+    font-weight: 600;
+}
